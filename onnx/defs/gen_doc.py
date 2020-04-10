@@ -236,14 +236,11 @@ def main(args):  # type: (Type[Args]) -> None
 
             s = '# {}\n'.format(display_domain_short(domain))
 
-            for version, unsorted_schemas in sorted(versionmap.items()):
+            for version, unsorted_schemas in sorted(versionmap.items(), reverse=True):
                 s += '## Version {} of {}\n'.format(version, display_domain(domain))
                 for schema in sorted(unsorted_schemas, key=lambda s: s.name):
-                    name_with_ver = '{}-{}'.format(format_name_with_domain(domain, schema.name),
-                                                   schema.since_version)
-                    s += ('### <a name="{}"></a>**{}**' + (' (deprecated)' if schema.deprecated else '') + '</a>\n').format(name_with_ver, name_with_ver)
-                    s += display_schema(schema, [schema])
-                    s += '\n'
+                    s += '<a href="Operators.md#{}-{}">{}</a>'.format(schema.name, version, schema.name)
+                    s += '\n\n'
 
             fout.write(s)
 
