@@ -5,626 +5,626 @@
 
 # ai.onnx (default)
 ## Version 12 of the default ONNX operator set
-<a href="Operators.md#ArgMax-12">ArgMax</a>
+<a href="Operators.md#ArgMax">ArgMax</a>
 
-<a href="Operators.md#ArgMin-12">ArgMin</a>
+<a href="Operators.md#ArgMin">ArgMin</a>
 
-<a href="Operators.md#BatchNormalization-12">BatchNormalization</a>
+<a href="Operators.md#BatchNormalization">BatchNormalization</a>
 
-<a href="Operators.md#Celu-12">Celu</a>
+<a href="Operators.md#Celu">Celu</a>
 
-<a href="Operators.md#Clip-12">Clip</a>
+<a href="Operators.md#Clip">Clip</a>
 
-<a href="Operators.md#Constant-12">Constant</a>
+<a href="Operators.md#Constant">Constant</a>
 
-<a href="Operators.md#Dropout-12">Dropout</a>
+<a href="Operators.md#Dropout">Dropout</a>
 
-<a href="Operators.md#Einsum-12">Einsum</a>
+<a href="Operators.md#Einsum">Einsum</a>
 
-<a href="Operators.md#GatherND-12">GatherND</a>
+<a href="Operators.md#GatherND">GatherND</a>
 
-<a href="Operators.md#GreaterOrEqual-12">GreaterOrEqual</a>
+<a href="Operators.md#GreaterOrEqual">GreaterOrEqual</a>
 
-<a href="Operators.md#Inverse-12">Inverse</a>
+<a href="Operators.md#Inverse">Inverse</a>
 
-<a href="Operators.md#LessOrEqual-12">LessOrEqual</a>
+<a href="Operators.md#LessOrEqual">LessOrEqual</a>
 
-<a href="Operators.md#Max-12">Max</a>
+<a href="Operators.md#Max">Max</a>
 
-<a href="Operators.md#MaxPool-12">MaxPool</a>
+<a href="Operators.md#MaxPool">MaxPool</a>
 
-<a href="Operators.md#MeanSquaredDistance-12">MeanSquaredDistance</a>
+<a href="Operators.md#MeanSquaredDistance">MeanSquaredDistance</a>
 
-<a href="Operators.md#Min-12">Min</a>
+<a href="Operators.md#Min">Min</a>
 
-<a href="Operators.md#NegativeLogLikelihoodLoss-12">NegativeLogLikelihoodLoss</a>
+<a href="Operators.md#NegativeLogLikelihoodLoss">NegativeLogLikelihoodLoss</a>
 
-<a href="Operators.md#Pow-12">Pow</a>
+<a href="Operators.md#Pow">Pow</a>
 
-<a href="Operators.md#ReduceMax-12">ReduceMax</a>
+<a href="Operators.md#ReduceMax">ReduceMax</a>
 
-<a href="Operators.md#ReduceMin-12">ReduceMin</a>
+<a href="Operators.md#ReduceMin">ReduceMin</a>
 
-<a href="Operators.md#SoftmaxCrossEntropyLoss-12">SoftmaxCrossEntropyLoss</a>
+<a href="Operators.md#SoftmaxCrossEntropyLoss">SoftmaxCrossEntropyLoss</a>
 
-<a href="Operators.md#UnfoldToDepth-12">UnfoldToDepth</a>
+<a href="Operators.md#UnfoldToDepth">UnfoldToDepth</a>
 
 ## Version 11 of the default ONNX operator set
-<a href="Operators.md#ArgMax-11">ArgMax</a>
+<a href="Operators.md#ArgMax">ArgMax</a>
 
-<a href="Operators.md#ArgMin-11">ArgMin</a>
+<a href="Operators.md#ArgMin">ArgMin</a>
 
-<a href="Operators.md#AveragePool-11">AveragePool</a>
+<a href="Operators.md#AveragePool">AveragePool</a>
 
-<a href="Operators.md#BitShift-11">BitShift</a>
+<a href="Operators.md#BitShift">BitShift</a>
 
-<a href="Operators.md#Clip-11">Clip</a>
+<a href="Operators.md#Clip">Clip</a>
 
-<a href="Operators.md#Compress-11">Compress</a>
+<a href="Operators.md#Compress">Compress</a>
 
-<a href="Operators.md#Concat-11">Concat</a>
+<a href="Operators.md#Concat">Concat</a>
 
-<a href="Operators.md#ConcatFromSequence-11">ConcatFromSequence</a>
+<a href="Operators.md#ConcatFromSequence">ConcatFromSequence</a>
 
-<a href="Operators.md#Constant-11">Constant</a>
+<a href="Operators.md#Constant">Constant</a>
 
-<a href="Operators.md#Conv-11">Conv</a>
+<a href="Operators.md#Conv">Conv</a>
 
-<a href="Operators.md#ConvTranspose-11">ConvTranspose</a>
+<a href="Operators.md#ConvTranspose">ConvTranspose</a>
 
-<a href="Operators.md#CumSum-11">CumSum</a>
+<a href="Operators.md#CumSum">CumSum</a>
 
-<a href="Operators.md#DepthToSpace-11">DepthToSpace</a>
+<a href="Operators.md#DepthToSpace">DepthToSpace</a>
 
-<a href="Operators.md#Det-11">Det</a>
+<a href="Operators.md#Det">Det</a>
 
-<a href="Operators.md#DynamicQuantizeLinear-11">DynamicQuantizeLinear</a>
+<a href="Operators.md#DynamicQuantizeLinear">DynamicQuantizeLinear</a>
 
-<a href="Operators.md#Equal-11">Equal</a>
+<a href="Operators.md#Equal">Equal</a>
 
-<a href="Operators.md#Flatten-11">Flatten</a>
+<a href="Operators.md#Flatten">Flatten</a>
 
-<a href="Operators.md#Gather-11">Gather</a>
+<a href="Operators.md#Gather">Gather</a>
 
-<a href="Operators.md#GatherElements-11">GatherElements</a>
+<a href="Operators.md#GatherElements">GatherElements</a>
 
-<a href="Operators.md#GatherND-11">GatherND</a>
+<a href="Operators.md#GatherND">GatherND</a>
 
-<a href="Operators.md#Gemm-11">Gemm</a>
+<a href="Operators.md#Gemm">Gemm</a>
 
-<a href="Operators.md#Hardmax-11">Hardmax</a>
+<a href="Operators.md#Hardmax">Hardmax</a>
 
-<a href="Operators.md#If-11">If</a>
+<a href="Operators.md#If">If</a>
 
-<a href="Operators.md#LogSoftmax-11">LogSoftmax</a>
+<a href="Operators.md#LogSoftmax">LogSoftmax</a>
 
-<a href="Operators.md#Loop-11">Loop</a>
+<a href="Operators.md#Loop">Loop</a>
 
-<a href="Operators.md#LpPool-11">LpPool</a>
+<a href="Operators.md#LpPool">LpPool</a>
 
-<a href="Operators.md#MaxPool-11">MaxPool</a>
+<a href="Operators.md#MaxPool">MaxPool</a>
 
-<a href="Operators.md#MaxUnpool-11">MaxUnpool</a>
+<a href="Operators.md#MaxUnpool">MaxUnpool</a>
 
-<a href="Operators.md#NonMaxSuppression-11">NonMaxSuppression</a>
+<a href="Operators.md#NonMaxSuppression">NonMaxSuppression</a>
 
-<a href="Operators.md#OneHot-11">OneHot</a>
+<a href="Operators.md#OneHot">OneHot</a>
 
-<a href="Operators.md#Pad-11">Pad</a>
+<a href="Operators.md#Pad">Pad</a>
 
-<a href="Operators.md#Range-11">Range</a>
+<a href="Operators.md#Range">Range</a>
 
-<a href="Operators.md#ReduceL1-11">ReduceL1</a>
+<a href="Operators.md#ReduceL1">ReduceL1</a>
 
-<a href="Operators.md#ReduceL2-11">ReduceL2</a>
+<a href="Operators.md#ReduceL2">ReduceL2</a>
 
-<a href="Operators.md#ReduceLogSum-11">ReduceLogSum</a>
+<a href="Operators.md#ReduceLogSum">ReduceLogSum</a>
 
-<a href="Operators.md#ReduceLogSumExp-11">ReduceLogSumExp</a>
+<a href="Operators.md#ReduceLogSumExp">ReduceLogSumExp</a>
 
-<a href="Operators.md#ReduceMax-11">ReduceMax</a>
+<a href="Operators.md#ReduceMax">ReduceMax</a>
 
-<a href="Operators.md#ReduceMean-11">ReduceMean</a>
+<a href="Operators.md#ReduceMean">ReduceMean</a>
 
-<a href="Operators.md#ReduceMin-11">ReduceMin</a>
+<a href="Operators.md#ReduceMin">ReduceMin</a>
 
-<a href="Operators.md#ReduceProd-11">ReduceProd</a>
+<a href="Operators.md#ReduceProd">ReduceProd</a>
 
-<a href="Operators.md#ReduceSum-11">ReduceSum</a>
+<a href="Operators.md#ReduceSum">ReduceSum</a>
 
-<a href="Operators.md#ReduceSumSquare-11">ReduceSumSquare</a>
+<a href="Operators.md#ReduceSumSquare">ReduceSumSquare</a>
 
-<a href="Operators.md#Resize-11">Resize</a>
+<a href="Operators.md#Resize">Resize</a>
 
-<a href="Operators.md#Round-11">Round</a>
+<a href="Operators.md#Round">Round</a>
 
-<a href="Operators.md#Scan-11">Scan</a>
+<a href="Operators.md#Scan">Scan</a>
 
-<a href="Operators.md#Scatter-11">Scatter</a>
+<a href="Operators.md#Scatter">Scatter</a>
 
-<a href="Operators.md#ScatterElements-11">ScatterElements</a>
+<a href="Operators.md#ScatterElements">ScatterElements</a>
 
-<a href="Operators.md#ScatterND-11">ScatterND</a>
+<a href="Operators.md#ScatterND">ScatterND</a>
 
-<a href="Operators.md#SequenceAt-11">SequenceAt</a>
+<a href="Operators.md#SequenceAt">SequenceAt</a>
 
-<a href="Operators.md#SequenceConstruct-11">SequenceConstruct</a>
+<a href="Operators.md#SequenceConstruct">SequenceConstruct</a>
 
-<a href="Operators.md#SequenceEmpty-11">SequenceEmpty</a>
+<a href="Operators.md#SequenceEmpty">SequenceEmpty</a>
 
-<a href="Operators.md#SequenceErase-11">SequenceErase</a>
+<a href="Operators.md#SequenceErase">SequenceErase</a>
 
-<a href="Operators.md#SequenceInsert-11">SequenceInsert</a>
+<a href="Operators.md#SequenceInsert">SequenceInsert</a>
 
-<a href="Operators.md#SequenceLength-11">SequenceLength</a>
+<a href="Operators.md#SequenceLength">SequenceLength</a>
 
-<a href="Operators.md#Slice-11">Slice</a>
+<a href="Operators.md#Slice">Slice</a>
 
-<a href="Operators.md#Softmax-11">Softmax</a>
+<a href="Operators.md#Softmax">Softmax</a>
 
-<a href="Operators.md#Split-11">Split</a>
+<a href="Operators.md#Split">Split</a>
 
-<a href="Operators.md#SplitToSequence-11">SplitToSequence</a>
+<a href="Operators.md#SplitToSequence">SplitToSequence</a>
 
-<a href="Operators.md#Squeeze-11">Squeeze</a>
+<a href="Operators.md#Squeeze">Squeeze</a>
 
-<a href="Operators.md#TopK-11">TopK</a>
+<a href="Operators.md#TopK">TopK</a>
 
-<a href="Operators.md#Unique-11">Unique</a>
+<a href="Operators.md#Unique">Unique</a>
 
-<a href="Operators.md#Unsqueeze-11">Unsqueeze</a>
+<a href="Operators.md#Unsqueeze">Unsqueeze</a>
 
 ## Version 10 of the default ONNX operator set
-<a href="Operators.md#AveragePool-10">AveragePool</a>
+<a href="Operators.md#AveragePool">AveragePool</a>
 
-<a href="Operators.md#ConvInteger-10">ConvInteger</a>
+<a href="Operators.md#ConvInteger">ConvInteger</a>
 
-<a href="Operators.md#DequantizeLinear-10">DequantizeLinear</a>
+<a href="Operators.md#DequantizeLinear">DequantizeLinear</a>
 
-<a href="Operators.md#Dropout-10">Dropout</a>
+<a href="Operators.md#Dropout">Dropout</a>
 
-<a href="Operators.md#IsInf-10">IsInf</a>
+<a href="Operators.md#IsInf">IsInf</a>
 
-<a href="Operators.md#MatMulInteger-10">MatMulInteger</a>
+<a href="Operators.md#MatMulInteger">MatMulInteger</a>
 
-<a href="Operators.md#MaxPool-10">MaxPool</a>
+<a href="Operators.md#MaxPool">MaxPool</a>
 
-<a href="Operators.md#Mod-10">Mod</a>
+<a href="Operators.md#Mod">Mod</a>
 
-<a href="Operators.md#NonMaxSuppression-10">NonMaxSuppression</a>
+<a href="Operators.md#NonMaxSuppression">NonMaxSuppression</a>
 
-<a href="Operators.md#QLinearConv-10">QLinearConv</a>
+<a href="Operators.md#QLinearConv">QLinearConv</a>
 
-<a href="Operators.md#QLinearMatMul-10">QLinearMatMul</a>
+<a href="Operators.md#QLinearMatMul">QLinearMatMul</a>
 
-<a href="Operators.md#QuantizeLinear-10">QuantizeLinear</a>
+<a href="Operators.md#QuantizeLinear">QuantizeLinear</a>
 
-<a href="Operators.md#Resize-10">Resize</a>
+<a href="Operators.md#Resize">Resize</a>
 
-<a href="Operators.md#ReverseSequence-10">ReverseSequence</a>
+<a href="Operators.md#ReverseSequence">ReverseSequence</a>
 
-<a href="Operators.md#RoiAlign-10">RoiAlign</a>
+<a href="Operators.md#RoiAlign">RoiAlign</a>
 
-<a href="Operators.md#Slice-10">Slice</a>
+<a href="Operators.md#Slice">Slice</a>
 
-<a href="Operators.md#StringNormalizer-10">StringNormalizer</a>
+<a href="Operators.md#StringNormalizer">StringNormalizer</a>
 
-<a href="Operators.md#ThresholdedRelu-10">ThresholdedRelu</a>
+<a href="Operators.md#ThresholdedRelu">ThresholdedRelu</a>
 
-<a href="Operators.md#TopK-10">TopK</a>
+<a href="Operators.md#TopK">TopK</a>
 
-<a href="Operators.md#Upsample-10">Upsample</a>
+<a href="Operators.md#Upsample">Upsample</a>
 
 ## Version 9 of the default ONNX operator set
-<a href="Operators.md#Acosh-9">Acosh</a>
+<a href="Operators.md#Acosh">Acosh</a>
 
-<a href="Operators.md#Asinh-9">Asinh</a>
+<a href="Operators.md#Asinh">Asinh</a>
 
-<a href="Operators.md#Atanh-9">Atanh</a>
+<a href="Operators.md#Atanh">Atanh</a>
 
-<a href="Operators.md#BatchNormalization-9">BatchNormalization</a>
+<a href="Operators.md#BatchNormalization">BatchNormalization</a>
 
-<a href="Operators.md#Cast-9">Cast</a>
+<a href="Operators.md#Cast">Cast</a>
 
-<a href="Operators.md#Compress-9">Compress</a>
+<a href="Operators.md#Compress">Compress</a>
 
-<a href="Operators.md#Constant-9">Constant</a>
+<a href="Operators.md#Constant">Constant</a>
 
-<a href="Operators.md#ConstantOfShape-9">ConstantOfShape</a>
+<a href="Operators.md#ConstantOfShape">ConstantOfShape</a>
 
-<a href="Operators.md#Cosh-9">Cosh</a>
+<a href="Operators.md#Cosh">Cosh</a>
 
-<a href="Operators.md#Erf-9">Erf</a>
+<a href="Operators.md#Erf">Erf</a>
 
-<a href="Operators.md#EyeLike-9">EyeLike</a>
+<a href="Operators.md#EyeLike">EyeLike</a>
 
-<a href="Operators.md#Flatten-9">Flatten</a>
+<a href="Operators.md#Flatten">Flatten</a>
 
-<a href="Operators.md#Gemm-9">Gemm</a>
+<a href="Operators.md#Gemm">Gemm</a>
 
-<a href="Operators.md#Greater-9">Greater</a>
+<a href="Operators.md#Greater">Greater</a>
 
-<a href="Operators.md#IsNaN-9">IsNaN</a>
+<a href="Operators.md#IsNaN">IsNaN</a>
 
-<a href="Operators.md#Less-9">Less</a>
+<a href="Operators.md#Less">Less</a>
 
-<a href="Operators.md#MatMul-9">MatMul</a>
+<a href="Operators.md#MatMul">MatMul</a>
 
-<a href="Operators.md#MaxUnpool-9">MaxUnpool</a>
+<a href="Operators.md#MaxUnpool">MaxUnpool</a>
 
-<a href="Operators.md#MeanVarianceNormalization-9">MeanVarianceNormalization</a>
+<a href="Operators.md#MeanVarianceNormalization">MeanVarianceNormalization</a>
 
-<a href="Operators.md#NonZero-9">NonZero</a>
+<a href="Operators.md#NonZero">NonZero</a>
 
-<a href="Operators.md#OneHot-9">OneHot</a>
+<a href="Operators.md#OneHot">OneHot</a>
 
-<a href="Operators.md#PRelu-9">PRelu</a>
+<a href="Operators.md#PRelu">PRelu</a>
 
-<a href="Operators.md#Scan-9">Scan</a>
+<a href="Operators.md#Scan">Scan</a>
 
-<a href="Operators.md#Scatter-9">Scatter</a>
+<a href="Operators.md#Scatter">Scatter</a>
 
-<a href="Operators.md#Shrink-9">Shrink</a>
+<a href="Operators.md#Shrink">Shrink</a>
 
-<a href="Operators.md#Sign-9">Sign</a>
+<a href="Operators.md#Sign">Sign</a>
 
-<a href="Operators.md#Sinh-9">Sinh</a>
+<a href="Operators.md#Sinh">Sinh</a>
 
-<a href="Operators.md#TfIdfVectorizer-9">TfIdfVectorizer</a>
+<a href="Operators.md#TfIdfVectorizer">TfIdfVectorizer</a>
 
-<a href="Operators.md#Upsample-9">Upsample</a>
+<a href="Operators.md#Upsample">Upsample</a>
 
-<a href="Operators.md#Where-9">Where</a>
+<a href="Operators.md#Where">Where</a>
 
 ## Version 8 of the default ONNX operator set
-<a href="Operators.md#Expand-8">Expand</a>
+<a href="Operators.md#Expand">Expand</a>
 
-<a href="Operators.md#Max-8">Max</a>
+<a href="Operators.md#Max">Max</a>
 
-<a href="Operators.md#MaxPool-8">MaxPool</a>
+<a href="Operators.md#MaxPool">MaxPool</a>
 
-<a href="Operators.md#Mean-8">Mean</a>
+<a href="Operators.md#Mean">Mean</a>
 
-<a href="Operators.md#Min-8">Min</a>
+<a href="Operators.md#Min">Min</a>
 
-<a href="Operators.md#Scan-8">Scan</a>
+<a href="Operators.md#Scan">Scan</a>
 
-<a href="Operators.md#Sum-8">Sum</a>
+<a href="Operators.md#Sum">Sum</a>
 
 ## Version 7 of the default ONNX operator set
-<a href="Operators.md#Acos-7">Acos</a>
+<a href="Operators.md#Acos">Acos</a>
 
-<a href="Operators.md#Add-7">Add</a>
+<a href="Operators.md#Add">Add</a>
 
-<a href="Operators.md#And-7">And</a>
+<a href="Operators.md#And">And</a>
 
-<a href="Operators.md#Asin-7">Asin</a>
+<a href="Operators.md#Asin">Asin</a>
 
-<a href="Operators.md#Atan-7">Atan</a>
+<a href="Operators.md#Atan">Atan</a>
 
-<a href="Operators.md#AveragePool-7">AveragePool</a>
+<a href="Operators.md#AveragePool">AveragePool</a>
 
-<a href="Operators.md#BatchNormalization-7">BatchNormalization</a>
+<a href="Operators.md#BatchNormalization">BatchNormalization</a>
 
-<a href="Operators.md#Cos-7">Cos</a>
+<a href="Operators.md#Cos">Cos</a>
 
-<a href="Operators.md#Div-7">Div</a>
+<a href="Operators.md#Div">Div</a>
 
-<a href="Operators.md#Dropout-7">Dropout</a>
+<a href="Operators.md#Dropout">Dropout</a>
 
-<a href="Operators.md#Equal-7">Equal</a>
+<a href="Operators.md#Equal">Equal</a>
 
-<a href="Operators.md#GRU-7">GRU</a>
+<a href="Operators.md#GRU">GRU</a>
 
-<a href="Operators.md#Gemm-7">Gemm</a>
+<a href="Operators.md#Gemm">Gemm</a>
 
-<a href="Operators.md#Greater-7">Greater</a>
+<a href="Operators.md#Greater">Greater</a>
 
-<a href="Operators.md#LSTM-7">LSTM</a>
+<a href="Operators.md#LSTM">LSTM</a>
 
-<a href="Operators.md#Less-7">Less</a>
+<a href="Operators.md#Less">Less</a>
 
-<a href="Operators.md#Mul-7">Mul</a>
+<a href="Operators.md#Mul">Mul</a>
 
-<a href="Operators.md#Multinomial-7">Multinomial</a>
+<a href="Operators.md#Multinomial">Multinomial</a>
 
-<a href="Operators.md#Or-7">Or</a>
+<a href="Operators.md#Or">Or</a>
 
-<a href="Operators.md#PRelu-7">PRelu</a>
+<a href="Operators.md#PRelu">PRelu</a>
 
-<a href="Operators.md#Pow-7">Pow</a>
+<a href="Operators.md#Pow">Pow</a>
 
-<a href="Operators.md#RNN-7">RNN</a>
+<a href="Operators.md#RNN">RNN</a>
 
-<a href="Operators.md#Sin-7">Sin</a>
+<a href="Operators.md#Sin">Sin</a>
 
-<a href="Operators.md#Sub-7">Sub</a>
+<a href="Operators.md#Sub">Sub</a>
 
-<a href="Operators.md#Tan-7">Tan</a>
+<a href="Operators.md#Tan">Tan</a>
 
-<a href="Operators.md#Upsample-7">Upsample</a>
+<a href="Operators.md#Upsample">Upsample</a>
 
-<a href="Operators.md#Xor-7">Xor</a>
+<a href="Operators.md#Xor">Xor</a>
 
 ## Version 6 of the default ONNX operator set
-<a href="Operators.md#Abs-6">Abs</a>
+<a href="Operators.md#Abs">Abs</a>
 
-<a href="Operators.md#Add-6">Add</a>
+<a href="Operators.md#Add">Add</a>
 
-<a href="Operators.md#BatchNormalization-6">BatchNormalization</a>
+<a href="Operators.md#BatchNormalization">BatchNormalization</a>
 
-<a href="Operators.md#Cast-6">Cast</a>
+<a href="Operators.md#Cast">Cast</a>
 
-<a href="Operators.md#Ceil-6">Ceil</a>
+<a href="Operators.md#Ceil">Ceil</a>
 
-<a href="Operators.md#Clip-6">Clip</a>
+<a href="Operators.md#Clip">Clip</a>
 
-<a href="Operators.md#Div-6">Div</a>
+<a href="Operators.md#Div">Div</a>
 
-<a href="Operators.md#Dropout-6">Dropout</a>
+<a href="Operators.md#Dropout">Dropout</a>
 
-<a href="Operators.md#Elu-6">Elu</a>
+<a href="Operators.md#Elu">Elu</a>
 
-<a href="Operators.md#Exp-6">Exp</a>
+<a href="Operators.md#Exp">Exp</a>
 
-<a href="Operators.md#Floor-6">Floor</a>
+<a href="Operators.md#Floor">Floor</a>
 
-<a href="Operators.md#Gemm-6">Gemm</a>
+<a href="Operators.md#Gemm">Gemm</a>
 
-<a href="Operators.md#HardSigmoid-6">HardSigmoid</a>
+<a href="Operators.md#HardSigmoid">HardSigmoid</a>
 
-<a href="Operators.md#InstanceNormalization-6">InstanceNormalization</a>
+<a href="Operators.md#InstanceNormalization">InstanceNormalization</a>
 
-<a href="Operators.md#LeakyRelu-6">LeakyRelu</a>
+<a href="Operators.md#LeakyRelu">LeakyRelu</a>
 
-<a href="Operators.md#Log-6">Log</a>
+<a href="Operators.md#Log">Log</a>
 
-<a href="Operators.md#Max-6">Max</a>
+<a href="Operators.md#Max">Max</a>
 
-<a href="Operators.md#Mean-6">Mean</a>
+<a href="Operators.md#Mean">Mean</a>
 
-<a href="Operators.md#Min-6">Min</a>
+<a href="Operators.md#Min">Min</a>
 
-<a href="Operators.md#Mul-6">Mul</a>
+<a href="Operators.md#Mul">Mul</a>
 
-<a href="Operators.md#Neg-6">Neg</a>
+<a href="Operators.md#Neg">Neg</a>
 
-<a href="Operators.md#PRelu-6">PRelu</a>
+<a href="Operators.md#PRelu">PRelu</a>
 
-<a href="Operators.md#Reciprocal-6">Reciprocal</a>
+<a href="Operators.md#Reciprocal">Reciprocal</a>
 
-<a href="Operators.md#Relu-6">Relu</a>
+<a href="Operators.md#Relu">Relu</a>
 
-<a href="Operators.md#Selu-6">Selu</a>
+<a href="Operators.md#Selu">Selu</a>
 
-<a href="Operators.md#Sigmoid-6">Sigmoid</a>
+<a href="Operators.md#Sigmoid">Sigmoid</a>
 
-<a href="Operators.md#Sqrt-6">Sqrt</a>
+<a href="Operators.md#Sqrt">Sqrt</a>
 
-<a href="Operators.md#Sub-6">Sub</a>
+<a href="Operators.md#Sub">Sub</a>
 
-<a href="Operators.md#Sum-6">Sum</a>
+<a href="Operators.md#Sum">Sum</a>
 
-<a href="Operators.md#Tanh-6">Tanh</a>
+<a href="Operators.md#Tanh">Tanh</a>
 
-<a href="Operators.md#Tile-6">Tile</a>
+<a href="Operators.md#Tile">Tile</a>
 
 ## Version 5 of the default ONNX operator set
-<a href="Operators.md#Reshape-5">Reshape</a>
+<a href="Operators.md#Reshape">Reshape</a>
 
 ## Version 4 of the default ONNX operator set
-<a href="Operators.md#Concat-4">Concat</a>
+<a href="Operators.md#Concat">Concat</a>
 
 ## Version 3 of the default ONNX operator set
-<a href="Operators.md#GRU-3">GRU</a>
+<a href="Operators.md#GRU">GRU</a>
 
 ## Version 2 of the default ONNX operator set
-<a href="Operators.md#GlobalLpPool-2">GlobalLpPool</a>
+<a href="Operators.md#GlobalLpPool">GlobalLpPool</a>
 
-<a href="Operators.md#LpPool-2">LpPool</a>
+<a href="Operators.md#LpPool">LpPool</a>
 
-<a href="Operators.md#Pad-2">Pad</a>
+<a href="Operators.md#Pad">Pad</a>
 
-<a href="Operators.md#Split-2">Split</a>
+<a href="Operators.md#Split">Split</a>
 
 ## Version 1 of the default ONNX operator set
-<a href="Operators.md#Abs-1">Abs</a>
+<a href="Operators.md#Abs">Abs</a>
 
-<a href="Operators.md#Add-1">Add</a>
+<a href="Operators.md#Add">Add</a>
 
-<a href="Operators.md#And-1">And</a>
+<a href="Operators.md#And">And</a>
 
-<a href="Operators.md#ArgMax-1">ArgMax</a>
+<a href="Operators.md#ArgMax">ArgMax</a>
 
-<a href="Operators.md#ArgMin-1">ArgMin</a>
+<a href="Operators.md#ArgMin">ArgMin</a>
 
-<a href="Operators.md#AveragePool-1">AveragePool</a>
+<a href="Operators.md#AveragePool">AveragePool</a>
 
-<a href="Operators.md#BatchNormalization-1">BatchNormalization</a>
+<a href="Operators.md#BatchNormalization">BatchNormalization</a>
 
-<a href="Operators.md#Cast-1">Cast</a>
+<a href="Operators.md#Cast">Cast</a>
 
-<a href="Operators.md#Ceil-1">Ceil</a>
+<a href="Operators.md#Ceil">Ceil</a>
 
-<a href="Operators.md#Clip-1">Clip</a>
+<a href="Operators.md#Clip">Clip</a>
 
-<a href="Operators.md#Concat-1">Concat</a>
+<a href="Operators.md#Concat">Concat</a>
 
-<a href="Operators.md#Constant-1">Constant</a>
+<a href="Operators.md#Constant">Constant</a>
 
-<a href="Operators.md#Conv-1">Conv</a>
+<a href="Operators.md#Conv">Conv</a>
 
-<a href="Operators.md#ConvTranspose-1">ConvTranspose</a>
+<a href="Operators.md#ConvTranspose">ConvTranspose</a>
 
-<a href="Operators.md#DepthToSpace-1">DepthToSpace</a>
+<a href="Operators.md#DepthToSpace">DepthToSpace</a>
 
-<a href="Operators.md#Div-1">Div</a>
+<a href="Operators.md#Div">Div</a>
 
-<a href="Operators.md#Dropout-1">Dropout</a>
+<a href="Operators.md#Dropout">Dropout</a>
 
-<a href="Operators.md#Elu-1">Elu</a>
+<a href="Operators.md#Elu">Elu</a>
 
-<a href="Operators.md#Equal-1">Equal</a>
+<a href="Operators.md#Equal">Equal</a>
 
-<a href="Operators.md#Exp-1">Exp</a>
+<a href="Operators.md#Exp">Exp</a>
 
-<a href="Operators.md#Flatten-1">Flatten</a>
+<a href="Operators.md#Flatten">Flatten</a>
 
-<a href="Operators.md#Floor-1">Floor</a>
+<a href="Operators.md#Floor">Floor</a>
 
-<a href="Operators.md#GRU-1">GRU</a>
+<a href="Operators.md#GRU">GRU</a>
 
-<a href="Operators.md#Gather-1">Gather</a>
+<a href="Operators.md#Gather">Gather</a>
 
-<a href="Operators.md#Gemm-1">Gemm</a>
+<a href="Operators.md#Gemm">Gemm</a>
 
-<a href="Operators.md#GlobalAveragePool-1">GlobalAveragePool</a>
+<a href="Operators.md#GlobalAveragePool">GlobalAveragePool</a>
 
-<a href="Operators.md#GlobalLpPool-1">GlobalLpPool</a>
+<a href="Operators.md#GlobalLpPool">GlobalLpPool</a>
 
-<a href="Operators.md#GlobalMaxPool-1">GlobalMaxPool</a>
+<a href="Operators.md#GlobalMaxPool">GlobalMaxPool</a>
 
-<a href="Operators.md#Greater-1">Greater</a>
+<a href="Operators.md#Greater">Greater</a>
 
-<a href="Operators.md#HardSigmoid-1">HardSigmoid</a>
+<a href="Operators.md#HardSigmoid">HardSigmoid</a>
 
-<a href="Operators.md#Hardmax-1">Hardmax</a>
+<a href="Operators.md#Hardmax">Hardmax</a>
 
-<a href="Operators.md#Identity-1">Identity</a>
+<a href="Operators.md#Identity">Identity</a>
 
-<a href="Operators.md#If-1">If</a>
+<a href="Operators.md#If">If</a>
 
-<a href="Operators.md#InstanceNormalization-1">InstanceNormalization</a>
+<a href="Operators.md#InstanceNormalization">InstanceNormalization</a>
 
-<a href="Operators.md#LRN-1">LRN</a>
+<a href="Operators.md#LRN">LRN</a>
 
-<a href="Operators.md#LSTM-1">LSTM</a>
+<a href="Operators.md#LSTM">LSTM</a>
 
-<a href="Operators.md#LeakyRelu-1">LeakyRelu</a>
+<a href="Operators.md#LeakyRelu">LeakyRelu</a>
 
-<a href="Operators.md#Less-1">Less</a>
+<a href="Operators.md#Less">Less</a>
 
-<a href="Operators.md#Log-1">Log</a>
+<a href="Operators.md#Log">Log</a>
 
-<a href="Operators.md#LogSoftmax-1">LogSoftmax</a>
+<a href="Operators.md#LogSoftmax">LogSoftmax</a>
 
-<a href="Operators.md#Loop-1">Loop</a>
+<a href="Operators.md#Loop">Loop</a>
 
-<a href="Operators.md#LpNormalization-1">LpNormalization</a>
+<a href="Operators.md#LpNormalization">LpNormalization</a>
 
-<a href="Operators.md#LpPool-1">LpPool</a>
+<a href="Operators.md#LpPool">LpPool</a>
 
-<a href="Operators.md#MatMul-1">MatMul</a>
+<a href="Operators.md#MatMul">MatMul</a>
 
-<a href="Operators.md#Max-1">Max</a>
+<a href="Operators.md#Max">Max</a>
 
-<a href="Operators.md#MaxPool-1">MaxPool</a>
+<a href="Operators.md#MaxPool">MaxPool</a>
 
-<a href="Operators.md#MaxRoiPool-1">MaxRoiPool</a>
+<a href="Operators.md#MaxRoiPool">MaxRoiPool</a>
 
-<a href="Operators.md#Mean-1">Mean</a>
+<a href="Operators.md#Mean">Mean</a>
 
-<a href="Operators.md#Min-1">Min</a>
+<a href="Operators.md#Min">Min</a>
 
-<a href="Operators.md#Mul-1">Mul</a>
+<a href="Operators.md#Mul">Mul</a>
 
-<a href="Operators.md#Neg-1">Neg</a>
+<a href="Operators.md#Neg">Neg</a>
 
-<a href="Operators.md#Not-1">Not</a>
+<a href="Operators.md#Not">Not</a>
 
-<a href="Operators.md#Or-1">Or</a>
+<a href="Operators.md#Or">Or</a>
 
-<a href="Operators.md#PRelu-1">PRelu</a>
+<a href="Operators.md#PRelu">PRelu</a>
 
-<a href="Operators.md#Pad-1">Pad</a>
+<a href="Operators.md#Pad">Pad</a>
 
-<a href="Operators.md#Pow-1">Pow</a>
+<a href="Operators.md#Pow">Pow</a>
 
-<a href="Operators.md#RNN-1">RNN</a>
+<a href="Operators.md#RNN">RNN</a>
 
-<a href="Operators.md#RandomNormal-1">RandomNormal</a>
+<a href="Operators.md#RandomNormal">RandomNormal</a>
 
-<a href="Operators.md#RandomNormalLike-1">RandomNormalLike</a>
+<a href="Operators.md#RandomNormalLike">RandomNormalLike</a>
 
-<a href="Operators.md#RandomUniform-1">RandomUniform</a>
+<a href="Operators.md#RandomUniform">RandomUniform</a>
 
-<a href="Operators.md#RandomUniformLike-1">RandomUniformLike</a>
+<a href="Operators.md#RandomUniformLike">RandomUniformLike</a>
 
-<a href="Operators.md#Reciprocal-1">Reciprocal</a>
+<a href="Operators.md#Reciprocal">Reciprocal</a>
 
-<a href="Operators.md#ReduceL1-1">ReduceL1</a>
+<a href="Operators.md#ReduceL1">ReduceL1</a>
 
-<a href="Operators.md#ReduceL2-1">ReduceL2</a>
+<a href="Operators.md#ReduceL2">ReduceL2</a>
 
-<a href="Operators.md#ReduceLogSum-1">ReduceLogSum</a>
+<a href="Operators.md#ReduceLogSum">ReduceLogSum</a>
 
-<a href="Operators.md#ReduceLogSumExp-1">ReduceLogSumExp</a>
+<a href="Operators.md#ReduceLogSumExp">ReduceLogSumExp</a>
 
-<a href="Operators.md#ReduceMax-1">ReduceMax</a>
+<a href="Operators.md#ReduceMax">ReduceMax</a>
 
-<a href="Operators.md#ReduceMean-1">ReduceMean</a>
+<a href="Operators.md#ReduceMean">ReduceMean</a>
 
-<a href="Operators.md#ReduceMin-1">ReduceMin</a>
+<a href="Operators.md#ReduceMin">ReduceMin</a>
 
-<a href="Operators.md#ReduceProd-1">ReduceProd</a>
+<a href="Operators.md#ReduceProd">ReduceProd</a>
 
-<a href="Operators.md#ReduceSum-1">ReduceSum</a>
+<a href="Operators.md#ReduceSum">ReduceSum</a>
 
-<a href="Operators.md#ReduceSumSquare-1">ReduceSumSquare</a>
+<a href="Operators.md#ReduceSumSquare">ReduceSumSquare</a>
 
-<a href="Operators.md#Relu-1">Relu</a>
+<a href="Operators.md#Relu">Relu</a>
 
-<a href="Operators.md#Reshape-1">Reshape</a>
+<a href="Operators.md#Reshape">Reshape</a>
 
-<a href="Operators.md#Selu-1">Selu</a>
+<a href="Operators.md#Selu">Selu</a>
 
-<a href="Operators.md#Shape-1">Shape</a>
+<a href="Operators.md#Shape">Shape</a>
 
-<a href="Operators.md#Sigmoid-1">Sigmoid</a>
+<a href="Operators.md#Sigmoid">Sigmoid</a>
 
-<a href="Operators.md#Size-1">Size</a>
+<a href="Operators.md#Size">Size</a>
 
-<a href="Operators.md#Slice-1">Slice</a>
+<a href="Operators.md#Slice">Slice</a>
 
-<a href="Operators.md#Softmax-1">Softmax</a>
+<a href="Operators.md#Softmax">Softmax</a>
 
-<a href="Operators.md#Softplus-1">Softplus</a>
+<a href="Operators.md#Softplus">Softplus</a>
 
-<a href="Operators.md#Softsign-1">Softsign</a>
+<a href="Operators.md#Softsign">Softsign</a>
 
-<a href="Operators.md#SpaceToDepth-1">SpaceToDepth</a>
+<a href="Operators.md#SpaceToDepth">SpaceToDepth</a>
 
-<a href="Operators.md#Split-1">Split</a>
+<a href="Operators.md#Split">Split</a>
 
-<a href="Operators.md#Sqrt-1">Sqrt</a>
+<a href="Operators.md#Sqrt">Sqrt</a>
 
-<a href="Operators.md#Squeeze-1">Squeeze</a>
+<a href="Operators.md#Squeeze">Squeeze</a>
 
-<a href="Operators.md#Sub-1">Sub</a>
+<a href="Operators.md#Sub">Sub</a>
 
-<a href="Operators.md#Sum-1">Sum</a>
+<a href="Operators.md#Sum">Sum</a>
 
-<a href="Operators.md#Tanh-1">Tanh</a>
+<a href="Operators.md#Tanh">Tanh</a>
 
-<a href="Operators.md#Tile-1">Tile</a>
+<a href="Operators.md#Tile">Tile</a>
 
-<a href="Operators.md#TopK-1">TopK</a>
+<a href="Operators.md#TopK">TopK</a>
 
-<a href="Operators.md#Transpose-1">Transpose</a>
+<a href="Operators.md#Transpose">Transpose</a>
 
-<a href="Operators.md#Unsqueeze-1">Unsqueeze</a>
+<a href="Operators.md#Unsqueeze">Unsqueeze</a>
 
-<a href="Operators.md#Upsample-1">Upsample</a>
+<a href="Operators.md#Upsample">Upsample</a>
 
-<a href="Operators.md#Xor-1">Xor</a>
+<a href="Operators.md#Xor">Xor</a>
 
 # ai.onnx.training
 ## Version 1 of the 'ai.onnx.training' operator set
-<a href="Operators.md#Adagrad-1">Adagrad</a>
+<a href="Operators.md#Adagrad">Adagrad</a>
 
-<a href="Operators.md#Gradient-1">Gradient</a>
+<a href="Operators.md#Gradient">Gradient</a>
 
-<a href="Operators.md#GraphCall-1">GraphCall</a>
+<a href="Operators.md#GraphCall">GraphCall</a>
 
-<a href="Operators.md#Momentum-1">Momentum</a>
+<a href="Operators.md#Momentum">Momentum</a>
 

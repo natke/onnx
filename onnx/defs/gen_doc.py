@@ -239,7 +239,7 @@ def main(args):  # type: (Type[Args]) -> None
             for version, unsorted_schemas in sorted(versionmap.items(), reverse=True):
                 s += '## Version {} of {}\n'.format(version, display_domain(domain))
                 for schema in sorted(unsorted_schemas, key=lambda s: s.name):
-                    s += '<a href="Operators.md#{}-{}">{}</a>'.format(schema.name, version, schema.name)
+                    s += '<a href="Operators.md#{}">{}</a>'.format(schema.name, schema.name)
                     s += '\n\n'
 
             fout.write(s)
