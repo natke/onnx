@@ -22,3 +22,4 @@ sphinx
 sphinx-exec-code
 sphinx-gallery
 tqdm
+sphinx_book_theme
