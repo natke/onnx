@@ -1,8 +1,10 @@
 import os
 import sys
 import warnings
+
+import sphinx_book_theme
+
 import onnx
-import pydata_sphinx_theme
 
 sys.path.append(os.path.abspath(os.path.dirname(__file__)))
 # from github_link import make_linkcode_resolve  # noqa
