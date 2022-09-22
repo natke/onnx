@@ -47,7 +47,7 @@ onnx_doc_folder = os.path.join(os.path.abspath(os.path.dirname(__file__)), "onnx
 
 # -- Options for HTML output -------------------------------------------------
 
-html_theme = "pydata_sphinx_theme"
+html_theme = "sphinx_book_theme"
 html_logo = os.path.join(os.path.abspath(os.path.dirname(__file__)), "../../ONNX_logo_main.png")
 
 # Navbar
