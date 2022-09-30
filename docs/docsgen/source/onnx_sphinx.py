@@ -1,4 +1,4 @@
-# pylint: disable=R0912,R0913,R0914,R0915
+# pylint: disable=C0415,R0912,R0913,R0914,R0915
 """
 Automates the generation of ONNX operators.
 """
@@ -12,6 +12,7 @@ import textwrap
 from difflib import Differ
 
 import numpy as np
+from sphinx.util import logging
 
 import onnx
 from onnx.backend.test.case.base import _Exporter
@@ -375,7 +376,7 @@ def get_rst_doc(  # type: ignore
             return sch.name
         if sch.domain:
             return f"{sch.name} - {sch.since_version} ({sch.domain})"
-        return "%s - %d" % (sch.name, sch.since_version)
+        return f"{sch.name} - {sch.since_version}"
 
     def format_option(obj):
         opts = []
@@ -798,12 +799,11 @@ def onnx_documentation_folder(folder, ops=None, title="ONNX Operators", flog=Non
                 table_dom.append(f"      - {col2}")
             table_dom.append("")
             if indent != "":
-                for i in range(len(table_dom)):
+                for i in range(len(table_dom)):  # pylint: disable=C0200
                     table_dom[i] = indent + table_dom[i]
             res = "\n".join(table_dom)
             return res
 
-    global _template_main
     all_schemas = _get_all_schemas_with_history()
     if not os.path.exists(folder):
         os.makedirs(folder)
@@ -887,8 +887,6 @@ def onnx_documentation_folder(folder, ops=None, title="ONNX Operators", flog=Non
 
 
 def _generate_op_doc(app):
-    from sphinx.util import logging
-
     logger = logging.getLogger(__name__)
     folder = app.config.onnx_doc_folder
     onnx_documentation_folder(folder, flog=logger.info)
